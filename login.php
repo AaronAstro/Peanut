@@ -36,7 +36,7 @@ if (isset($_POST['submit'])) {
 
 </head>
 
-<body style="background-image: url(./public/droxford-farm-logo-2@2x.png); background-image: no repeat; background-image: ">
+<body style="background-image: url(./public/droxford-farm-logo-2@2x.png); background-image: no repeat;
 
    <?php
    if (isset($message)) {
