@@ -32,10 +32,11 @@ if (isset($_POST['submit'])) {
 
    <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
+   
 
 </head>
 
-<body>
+<body style="background-image: url(./public/droxford-farm-logo-2@2x.png); background-image: no repeat; background-image: ">
 
    <?php
    if (isset($message)) {

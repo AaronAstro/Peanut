@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="css/header-style.css">
     <link rel="stylesheet" href="css/footer-style.css">
     <link rel="stylesheet" href="css/main-style.css">
+    <link rel="stylesheet" href="css/about-2.css">
+    <link rel="stylesheet" href="css/global.css">
+
+
     <title>Document</title>
 </head>
 
@@ -22,7 +26,7 @@
                     <a href="home.php">Home</a>
                     <a href="about.php">About</a>
                     <a href="contact.php">Contact</a>
-                    <a href="store">Store</a>
+                    <a href="store.php">Store</a>
 
                     <a href="cart.php" class="cart-link">
                         <img src="images/cart1.png" alt="" class="cart-icon">

@@ -46,7 +46,7 @@ if (isset($_POST['submit'])) {
    }
    ?>
 
-   <div class="form-container">
+   <div class="form-container" >
 
       <form action="" method="post">
          <h3>register now</h3>
@@ -59,7 +59,9 @@ if (isset($_POST['submit'])) {
       </form>
 
    </div>
+   
 
 </body>
+
 
 </html>
